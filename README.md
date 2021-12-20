@@ -4,8 +4,13 @@ https://user-images.githubusercontent.com/84550325/146706243-cfd773c2-f648-407d-
 
 
 Tech Used
+
 Node
+
 Express
+
 MySQL
+
 Sequelize
+
 Dotenv
